@@ -25,8 +25,8 @@
 
 ###  Featured Engineering Projects
 
-*  **[AWS Medallion Healthcare Big Data Platform](https://github.com/Basitrehmankhattak)**  
-  *Event-driven IoT data platform built on AWS S3, Step Functions, Glue, Athena, and SageMaker in an isolated private VPC.*
+*  **[AWS Medallion Healthcare Big Data & MLOps Platform](https://github.com/Basitrehmankhattak/aws-healthcare-bigdata-platform)**  
+  *Event-driven IoT data platform built on AWS S3, Step Functions, Glue, Athena, SageMaker, and QuickSight inside a private VPC.*
 
 *  **[Personalized News Recommendation System](https://github.com/Basitrehmankhattak/news-recsys-platform-trained)**  
   *Multi-stage semantic engine using FAISS candidate retrieval, LightGBM ranker, MMR re-ranking, and FastAPI with PostgreSQL.*
