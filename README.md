@@ -36,3 +36,7 @@
 ###  [House Prices Industrialized MLOps Pipeline](https://github.com/Basitrehmankhattak/house-prices-industrialized-mlops)
 * An enterprise-grade, leak-free machine learning pipeline refactored into a modular Python package with strict code quality standards.
 * **Tech:** Python, Scikit-Learn, Joblib, MLflow, PyTest, Flake8, Makefile, GitHub Actions CI/CD.
+
+###  [HealthVision – End-to-End MLOps Medical Platform](https://github.com/Basitrehmankhattak/healthvision-diabetes-mlops)
+* An end-to-end clinical machine learning system with automated Airflow ingestion pipelines, schema validation, REST inference, interactive UI, and live Grafana monitoring.
+* **Tech:** Apache Airflow, FastAPI, Streamlit, PostgreSQL, Grafana, Docker.
