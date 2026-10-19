@@ -1,18 +1,18 @@
 # Basit ur Rehman
 **Cloud & Data Engineer | MLOps | Master 2 Student in Intelligent Systems & Computer Vision**
 
-📍 Paris Region, France | 💼 [LinkedIn](https://www.linkedin.com/in/basitr-khattak/) | ✉️ basitrehmankhattak@gmail.com
+ Paris Region, France |  [LinkedIn](https://www.linkedin.com/in/basitr-khattak/) |  basitrehman97@gmail.com
 
 ---
 
-### 🚀 About Me
-- 🎓 **Education:** M2 Intelligent Systems & Computer Vision @ Université Sorbonne Paris Nord | M1 MSc Data Science @ EPITA.
-- ⚙️ **Experience:** 4+ years managing Azure/AWS hybrid-cloud infrastructure and building scalable data pipelines.
-- 🎯 **Looking For:** 6-month End-of-Studies Master's Internship starting early 2027 in **Data Engineering, MLOps, or Cloud Systems**.
+###  About Me
+-  **Education:** M2 Intelligent Systems & Computer Vision @ Université Sorbonne Paris Nord | M1 MSc Data Science @ EPITA.
+-  **Experience:** 4+ years managing Azure/AWS hybrid-cloud infrastructure and building scalable data pipelines.
+-  **Looking For:** 6-month End-of-Studies Master's Internship starting early 2027 in **Data Engineering, MLOps, or Cloud Systems**.
 
 ---
 
-### 🛠️ Technical Toolkit
+###  Technical Toolkit
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
@@ -23,7 +23,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 * **Automated Containerized ELT Platform**  
   *Production-ready data pipeline using Python, PostgreSQL, dbt, Docker Compose, and Apache Airflow.*
