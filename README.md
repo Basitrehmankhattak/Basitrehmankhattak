@@ -25,11 +25,14 @@
 
 ###  Featured Engineering Projects
 
-*  **[AWS Medallion Healthcare Big Data & MLOps Platform](https://github.com/Basitrehmankhattak/aws-healthcare-bigdata-platform)**  
-  *Event-driven IoT data platform built on AWS S3, Step Functions, Glue, Athena, SageMaker, and QuickSight inside a private VPC.*
+###  [AWS Healthcare Big Data & MLOps Platform](https://github.com/Basitrehmankhattak/aws-healthcare-bigdata-platform)
+* An event-driven Medallion (Bronze/Silver/Gold) data lake processing IoT telemetry and clinical batch records inside a private AWS VPC.
+* **Tech:** AWS S3, Step Functions, Glue ETL, Athena, SageMaker Anomaly Detection, QuickSight, CloudWatch.
 
-*  **[Personalized News Recommendation System](https://github.com/Basitrehmankhattak/news-recommendation-platform)**  
-  *Multi-stage semantic engine using FAISS candidate retrieval, LightGBM ranker, MMR re-ranking, and FastAPI with PostgreSQL.*
+###  [Production-Ready Semantic News Recommendation Platform](https://github.com/Basitrehmankhattak/news-recommendation-platform)
+* A multi-stage recommendation funnel on the Microsoft MIND dataset featuring sub-millisecond vector retrieval and diversity re-ranking.
+* **Tech:** Python, FastAPI, FAISS, LightGBM, Maximal Marginal Relevance (MMR), PostgreSQL, Docker.
 
-*  **[Industrialized MLOps Framework](https://github.com/Basitrehmankhattak)**  
-  *Production ML architecture featuring Dockerized FastAPI inference backends, Apache Airflow task scheduling, and MLflow experiment tracking.*
+###  [House Prices Industrialized MLOps Pipeline](https://github.com/Basitrehmankhattak/house-prices-industrialized-mlops)
+* An enterprise-grade, leak-free machine learning pipeline refactored into a modular Python package with strict code quality standards.
+* **Tech:** Python, Scikit-Learn, Joblib, MLflow, PyTest, Flake8, Makefile, GitHub Actions CI/CD.
