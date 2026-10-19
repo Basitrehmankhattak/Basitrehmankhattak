@@ -1,14 +1,14 @@
 # Basit ur Rehman
 **Cloud & Data Engineer | MLOps | Master 2 Student in Intelligent Systems & Computer Vision**
 
- Paris Region, France |  [LinkedIn](https://www.linkedin.com/in/basitr-khattak/) |  basitrehman97@gmail.com
+ Paris Region, France |  [LinkedIn](https://www.linkedin.com/in/basitr-khattak) |  basitrehman97@gmail.com
 
 ---
 
 ###  About Me
--  **Education:** M2 Intelligent Systems & Computer Vision @ Université Sorbonne Paris Nord | M1 MSc Data Science @ EPITA.
--  **Experience:** 4+ years managing Azure/AWS hybrid-cloud infrastructure and building scalable data pipelines.
--  **Looking For:** 6-month End-of-Studies Master's Internship starting early 2027 in **Data Engineering, MLOps, or Cloud Systems**.
+-  **Education:** M2 Intelligent Systems & Computer Vision (SIVO) @ Université Sorbonne Paris Nord | M1 MSc Data Science & Analytics @ EPITA | B.S. Computer Engineering @ COMSATS University.
+-  **Experience:** 4+ years managing AWS & Azure hybrid-cloud infrastructure, automating system health pipelines, and driving 80% operational efficiency at u-blox.
+-  **Target:** Seeking a 6-month End-of-Studies Master's Internship starting early 2027 in **Data Engineering, MLOps, or Cloud Architecture**.
 
 ---
 
@@ -16,20 +16,20 @@
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, SQL, C++, Bash |
-| **Cloud & Infra** | AWS (S3, Lambda, Step Functions, Glue, Athena, SageMaker), Azure, Docker, Kubernetes |
-| **Data & MLOps** | PostgreSQL, dbt, Apache Airflow, FastAPI, LightGBM, FAISS, PyTorch |
-| **Methodologies** | CI/CD, Containerization, Vector Search, Automated Ingestion Pipelines |
+| **Languages** | Python, SQL (PostgreSQL), C++, Bash, Assembly |
+| **Cloud & Infra** | AWS (S3, SageMaker, Step Functions, Glue, Athena), Azure (Certified Admin), Docker, Jenkins |
+| **Data & MLOps** | Apache Airflow, dbt, FastAPI, MLflow, FAISS, LightGBM, PyTorch, Scikit-Learn |
+| **System Operations**| Linux (Ubuntu/CentOS), VMware ESXi, Jira Admin, Git, CI/CD |
 
 ---
 
-###  Featured Projects
+###  Featured Engineering Projects
 
-* **Automated Containerized ELT Platform**  
-  *Production-ready data pipeline using Python, PostgreSQL, dbt, Docker Compose, and Apache Airflow.*
+*  **[AWS Medallion Healthcare Big Data Platform](https://github.com/Basitrehmankhattak)**  
+  *Event-driven IoT data platform built on AWS S3, Step Functions, Glue, Athena, and SageMaker in an isolated private VPC.*
 
-* **Semantic News Recommendation Platform**  
-  *End-to-end recommendation engine built with MiniLM embeddings, FAISS vector indexing, LightGBM ranker, and FastAPI.*
+*  **[Personalized News Recommendation System](https://github.com/Basitrehmankhattak/news-recsys-platform-trained)**  
+  *Multi-stage semantic engine using FAISS candidate retrieval, LightGBM ranker, MMR re-ranking, and FastAPI with PostgreSQL.*
 
-* **Real-Time Spam Detection Pipeline**  
-  *Text classification model leveraging LSTM architecture deployed with a interactive Streamlit interface.*
+*  **[Industrialized MLOps Framework](https://github.com/Basitrehmankhattak)**  
+  *Production ML architecture featuring Dockerized FastAPI inference backends, Apache Airflow task scheduling, and MLflow experiment tracking.*
