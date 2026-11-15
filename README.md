@@ -38,7 +38,7 @@ End-to-end clinical ML pipeline featuring scheduled `Apache Airflow` ingestion, 
 
 ## Technical Skills
 
-| Level | Tools & Technologies |
+| Category | Tools & Technologies |
 | :--- | :--- |
 | **Core Data Stack** | Python (`pandas`, `requests`, `psycopg2`) · SQL (`PostgreSQL`, `MySQL` — CTEs, Window Functions, Query Optimization) · `dbt` Core (Dimensional Modeling, Schema Tests) · Apache Airflow (`DockerOperator`, `PythonOperator`) · ETL / ELT Pipelines · Docker & Docker Compose · Grafana · Git · Linux & Bash |
 | **Cloud Platforms** | **Microsoft Azure** (Certified Administrator; `Entra ID / Azure AD`, VMs, RBAC) · **AWS** (`S3`, `EC2`, `ECS`, `Glue ETL`, `Athena`, `Step Functions`, `Lambda`, `SageMaker`, `CloudWatch`, `IAM`) |
