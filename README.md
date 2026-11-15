@@ -23,7 +23,7 @@ Event-driven **Medallion (`Bronze` / `Silver` / `Gold`) data lake** processing I
 - **Tech:** AWS S3, Step Functions, Glue ETL, Athena, SageMaker, QuickSight, CloudWatch.
 
 ### 3. [Semantic News Recommendation Platform](https://github.com/Basitrehmankhattak/news-recommendation-platform)
-Multi-stage recommendation pipeline on the Microsoft MIND dataset  `FAISS` vector retrieval, `LightGBM` ranking, and diversity re-ranking via Maximal Marginal Relevance (MMR).
+Multi-stage recommendation pipeline on the Microsoft MIND dataset  **featuring** `FAISS` vector retrieval, `LightGBM` ranking, and diversity re-ranking via Maximal Marginal Relevance (MMR).
 - **Tech:** Python, FastAPI, FAISS, LightGBM, PostgreSQL, Docker.
 
 ### 4. [HealthVision: End-to-End MLOps Platform](https://github.com/Basitrehmankhattak/healthvision-diabetes-mlops)
