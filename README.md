@@ -1,5 +1,5 @@
 # Basit ur Rehman
-**Data & Analytics Engineering Intern (*Stage de fin d'études* · 6 Months · Feb/Mar 2027) | Python · SQL · dbt · Apache Airflow · Docker**  
+**Data & Analytics Engineering intern (Feb 2027) | Python · SQL · dbt · Airflow · Docker | Ex-Infra Engineer @u-blox | M2 @Sorbonne Paris Nord**  
 Paris Region, France (Île-de-France) | [Portfolio](https://basitrehmankhattak.github.io/BasiturRehmanPortfolio/) | [LinkedIn](https://www.linkedin.com/in/basit-ur-rehman/) | basitrehman97@gmail.com
 
 
