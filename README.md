@@ -12,15 +12,15 @@
 
 ---
 
-###  Technical Toolkit
+## Technical Toolkit
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, SQL (PostgreSQL), C++, Bash, Assembly |
-| **Cloud & Infra** | AWS (S3, SageMaker, Step Functions, Glue, Athena), Azure (Certified Admin), Docker, Jenkins |
-| **Data & MLOps** | Apache Airflow, dbt, FastAPI, MLflow, FAISS, LightGBM, PyTorch, Scikit-Learn |
-| **System Operations**| Linux (Ubuntu/CentOS), VMware ESXi, Jira Admin, Git, CI/CD |
-
+| **Languages & Querying** | Python (pandas, requests, psycopg2), SQL (PostgreSQL — CTEs, Window Functions), Bash |
+| **Analytics Engineering & BI** | dbt Core (Staging/Mart Modeling, Data Quality Tests), Dimensional Modeling, Grafana |
+| **Orchestration & Pipelines** | Apache Airflow (`DockerOperator`, `PythonOperator`), ETL / ELT Design, REST APIs |
+| **Cloud & Data Platforms** | AWS (S3, Glue ETL, Athena, Step Functions, IAM), Microsoft Azure (Certified Admin) |
+| **Containers & DevOps** | Docker, Docker Compose, Linux (Ubuntu), Git, GitHub Actions CI/CD |
 ---
 
 ## Featured Engineering Projects
