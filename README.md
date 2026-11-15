@@ -1,6 +1,6 @@
 # Basit ur Rehman
-**Data & Analytics Engineering intern (Feb 2027) | Python · SQL · dbt · Airflow · Docker | Ex-Infra Engineer @u-blox | M2 @Sorbonne Paris Nord**  
-Paris Region, France (Île-de-France) | [Portfolio](https://basitrehmankhattak.github.io/BasiturRehmanPortfolio/) | [LinkedIn](https://www.linkedin.com/in/basit-ur-rehman/) | basitrehman97@gmail.com
+**Seeking Data & Analytics Engineering internship (Feb 2027) | Python · SQL · dbt · Airflow · Docker | Ex-Infra Engineer u-blox | M2 Sorbonne Paris Nord**  
+Paris,France (Île-de-France) | [Portfolio](https://basitrehmankhattak.github.io/BasiturRehmanPortfolio/) | [LinkedIn](https://www.linkedin.com/in/basit-ur-rehman/) | basitrehman97@gmail.com
 
 
 À la recherche d’un stage de fin d’études de 6 mois (février/mars 2027) en Data Engineering ou Analytics Engineering.
