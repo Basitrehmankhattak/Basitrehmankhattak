@@ -30,10 +30,10 @@ Paris Region, France | [Portfolio](https://basitrehmankhattak.github.io/BasiturR
   
 ### Systems & Data Operations Engineer — Next Generation Technology Solutions (NGT Sol)
 *Lahore, Punjab, Pakistan · On-site | Sep 2021 – May 2022 (9 mos)*
-- **Database Operations & SQL Maintenance:** Executed relational database checks and SQL queries (`PostgreSQL`/`MySQL`) to audit data records, verify schema connectivity, and assist in operational data troubleshooting.
 - **Log Parsing & Diagnostic Scripting:** Developed custom Shell and Python diagnostic scripts to parse system logs, automate routine server health checks, and resolve network/authentication bottlenecks.
 - **Server Administration & Virtualization:** Delivered L2 infrastructure support across Linux and Windows server environments; executed routine server provisioning, virtualization setups (`VMware ESXi`), and security patch management.
 - **Telemetry, Incident Data Metrics & SOPs:** Configured ITSM incident tracking workflows (`ServiceNow`) to structure operational logs and generate regular SLA performance and system uptime reports; drafted technical SOPs and deployment checklists to enforce infrastructure compliance.
+- **Gouvernance d'identité & résilience des données :** Administration multi-sites d'`Active Directory` (contrôleurs de domaine, GPO, groupes de sécurité), `Microsoft Entra ID / Office 365`, `Google Workspace` et `Okta` SSO, ainsi que gestion d'environnements virtualisés (`VMware`, `Hyper-V`) et des sauvegardes `Veeam`.
   
 ## Featured Engineering Projects
 
