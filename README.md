@@ -27,7 +27,7 @@ Paris Region, France | [Portfolio](https://basitrehmankhattak.github.io/BasiturR
 - **On-Premises, Virtualization & Global Disaster Recovery:** Executed on-premises server setups, hardware provisioning, hypervisor configurations (`VMware ESXi`, `Hyper-V`), and Linux/Windows OS deployments (`WDS`/`MDT`) across international sites, including full-site workstation and system recovery (`~200 R&D machines` on-site as part of a `1,500-device` global recovery) during a major ransomware incident with Active Directory offline.
 - **Scripting & System Telemetry:** Developed Python scripts to automate daily system health checks, log parsing, and routine administrative workflows; configured **Grafana** and **AWS CloudWatch** telemetry dashboards and automated log alerts to track real-time infrastructure performance and service availability.
 - **Workflow Automation & Governance (Jira / Confluence / CAB):** Led Jira & Confluence administration; built custom workflows, `JQL` queries, and REST API automation scripts saving **15+ operational hours monthly**, drove an **80% global ticket backlog reduction** (1,000+ to <200 open tickets) with a **4.9/5 user satisfaction rating**, and served as CAB Administrator enforcing ITIL change management for zero-downtime hybrid cloud migrations.
-- 
+  
 ### Systems & Data Operations Engineer — Next Generation Technology Solutions (NGT Sol)
 *Lahore, Punjab, Pakistan · On-site | Sep 2021 – May 2022 (9 mos)*
 - **Database Operations & SQL Maintenance:** Executed relational database checks and SQL queries (`PostgreSQL`/`MySQL`) to audit data records, verify schema connectivity, and assist in operational data troubleshooting.
