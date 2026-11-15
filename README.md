@@ -1,7 +1,10 @@
 # Basit ur Rehman
 **Data & Analytics Engineering Intern (*Stage de fin d'études* · 6 Months · Feb/Mar 2027) | Python · SQL · dbt · Apache Airflow · Docker**  
 Paris Region, France (Île-de-France) | [Portfolio](https://basitrehmankhattak.github.io/BasiturRehmanPortfolio/) | [LinkedIn](https://www.linkedin.com/in/basit-ur-rehman/) | basitrehman97@gmail.com
-À la recherche d’un stage de fin d’études de 6 mois (février/mars 2027) en Data Engineering ou Analytics Engineering
+
+
+À la recherche d’un stage de fin d’études de 6 mois (février/mars 2027) en Data Engineering ou Analytics Engineering.
+
 ## About Me
 
 I am a Master's student in Paris pursuing an **M2 in Intelligent Systems & Computer Vision (SIVO)** at **Université Sorbonne Paris Nord**, following an **M1 in Data Science & AI** at **EPITA Paris**.
