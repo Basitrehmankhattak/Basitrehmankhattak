@@ -23,20 +23,20 @@
 
 ---
 
-###  Featured Engineering Projects
+## Featured Engineering Projects
 
-###  [AWS Healthcare Big Data & MLOps Platform](https://github.com/Basitrehmankhattak/aws-healthcare-bigdata-platform)
-* An event-driven Medallion (Bronze/Silver/Gold) data lake processing IoT telemetry and clinical batch records inside a private AWS VPC.
-* **Tech:** AWS S3, Step Functions, Glue ETL, Athena, SageMaker Anomaly Detection, QuickSight, CloudWatch.
+### [AWS Healthcare Big Data & MLOps Platform](https://github.com/Basitrehmankhattak)
+- An event-driven Medallion (Bronze/Silver/Gold) data lake processing IoT telemetry and clinical batch records inside a private AWS VPC.
+- **Tech:** AWS S3, Step Functions, Glue ETL, Athena, SageMaker Anomaly Detection, QuickSight, CloudWatch.
 
-###  [Production-Ready Semantic News Recommendation Platform](https://github.com/Basitrehmankhattak/news-recommendation-platform)
-* A multi-stage recommendation funnel on the Microsoft MIND dataset featuring sub-millisecond vector retrieval and diversity re-ranking.
-* **Tech:** Python, FastAPI, FAISS, LightGBM, Maximal Marginal Relevance (MMR), PostgreSQL, Docker.
+### [Automated Weather ELT & Observability Pipeline](https://github.com/Basitrehmankhattak/weather_data_project)
+- A containerized end-to-end ELT pipeline ingesting live meteorological data, enforcing automated `dbt` schema quality tests (`unique`, `not_null`), orchestrating tasks via Airflow's `DockerOperator`, and tracking real-time metrics and ingestion health in Grafana.
+- **Tech:** Python, PostgreSQL, dbt Core, Apache Airflow, Grafana, Docker Compose.
 
-###  [House Prices Industrialized MLOps Pipeline](https://github.com/Basitrehmankhattak/house-prices-industrialized-mlops)
-* An enterprise-grade, leak-free machine learning pipeline refactored into a modular Python package with strict code quality standards.
-* **Tech:** Python, Scikit-Learn, Joblib, MLflow, PyTest, Flake8, Makefile, GitHub Actions CI/CD.
+### [Production-Ready Semantic News Recommendation Platform](https://github.com/Basitrehmankhattak)
+- A multi-stage recommendation funnel on the Microsoft MIND dataset featuring sub-millisecond vector retrieval and diversity re-ranking.
+- **Tech:** Python, FastAPI, FAISS, LightGBM, Maximal Marginal Relevance (MMR), PostgreSQL, Docker.
 
-###  [HealthVision – End-to-End MLOps Medical Platform](https://github.com/Basitrehmankhattak/healthvision-diabetes-mlops)
-* An end-to-end clinical machine learning system with automated Airflow ingestion pipelines, schema validation, REST inference, interactive UI, and live Grafana monitoring.
-* **Tech:** Apache Airflow, FastAPI, Streamlit, PostgreSQL, Grafana, Docker.
+### [HealthVision – End-to-End MLOps Medical Platform](https://github.com/Basitrehmankhattak)
+- An end-to-end clinical machine learning system with automated Airflow ingestion pipelines, schema validation, REST inference, interactive UI, and live Grafana monitoring.
+- **Tech:** Apache Airflow, FastAPI, Streamlit, PostgreSQL, Grafana, Docker.
