@@ -23,7 +23,7 @@ Event-driven **Medallion (`Bronze` / `Silver` / `Gold`) data lake** processing I
 - **Tech:** AWS S3, Step Functions, Glue ETL, Athena, SageMaker, QuickSight, CloudWatch.
 
 ### 3. [Semantic News Recommendation Platform](https://github.com/Basitrehmankhattak/news-recommendation-platform)
-Multi-stage recommendation pipeline on the Microsoft MIND dataset featuring sub-millisecond `FAISS` vector retrieval, `LightGBM` ranking, and diversity re-ranking via Maximal Marginal Relevance (MMR).
+Multi-stage recommendation pipeline on the Microsoft MIND dataset  `FAISS` vector retrieval, `LightGBM` ranking, and diversity re-ranking via Maximal Marginal Relevance (MMR).
 - **Tech:** Python, FastAPI, FAISS, LightGBM, PostgreSQL, Docker.
 
 ### 4. [HealthVision: End-to-End MLOps Platform](https://github.com/Basitrehmankhattak/healthvision-diabetes-mlops)
@@ -36,8 +36,8 @@ End-to-end clinical ML pipeline featuring scheduled `Apache Airflow` ingestion, 
 | :--- | :--- |
 | **Core Data Stack** | Python (`pandas`, `requests`, `psycopg2`) · SQL (`PostgreSQL`, `MySQL` — CTEs, Window Functions, Query Optimization) · `dbt` Core (Dimensional Modeling, Schema Tests) · Apache Airflow (`DockerOperator`, `PythonOperator`) · ETL / ELT Pipelines · Docker & Docker Compose · Grafana · Git · Linux & Bash |
 | **Cloud Platforms** | **Microsoft Azure** (Certified Administrator; `Entra ID / Azure AD`, VMs, RBAC) · **AWS** (`S3`, `EC2`, `ECS`, `Glue ETL`, `Athena`, `Step Functions`, `Lambda`, `SageMaker`, `CloudWatch`, `IAM`) |
-| **Working Knowledge** | MongoDB · Power BI · Tableau · FastAPI · Streamlit · PyTorch · Scikit-Learn · LightGBM · FAISS · GitHub Actions / GitLab CI (`CI/CD`) |
-| **Currently Building** | Snowflake (Cloud Data Warehouse) · Redis |
+| **Working Knowledge** | MongoDB · Power BI  · FastAPI · Streamlit · PyTorch · Scikit-Learn · LightGBM · FAISS · GitHub Actions / GitLab CI (`CI/CD`) |
+| **Currently Building** | Snowflake (Cloud Data Warehouse)  |
 | **Infrastructure & Governance** | Linux (`Ubuntu`, `CentOS`, `RHEL`, `Debian`) · Windows Server (`AD DS`, `DNS`, `DHCP`, `GPO`) · `VMware ESXi` · `Hyper-V` · `Veeam` Backup & Recovery · `Okta` SSO · `Jira` (`JQL`, REST APIs) · `ServiceNow` · ITIL / CAB |
 
 ## Experience
@@ -47,7 +47,7 @@ End-to-end clinical ML pipeline featuring scheduled `Apache Airflow` ingestion, 
 - **Cloud Platform Operations:** Administered hybrid **Microsoft Azure** and **AWS** environments (`Entra ID`, VMs, RBAC, `EC2`, `ECS`, `S3`, `IAM`) with least-privilege access governance for global R&D teams.
 - **Observability & Telemetry:** Built **Grafana** and **AWS CloudWatch** dashboards and automated alerting to track service availability, latency, and infrastructure health across international sites.
 - **Workflow & REST API Automation:** Built `Python` and `Jira`/`Confluence` REST API & `JQL` automation scripts saving **15+ hours/month**, helping reduce the global ticket backlog by **80%** (1,000+ to <200 open tickets) with a **4.9/5 user satisfaction rating**.
-- **Change Management & Disaster Recovery:** Led CAB change management for zero-downtime cloud migrations and executed full-site disaster recovery after a ransomware incident (`~200 machines` on-site within a `1,500-device` global recovery).
+- **Change Management & Disaster Recovery:** Led CAB change management for zero-downtime cloud migrations and took part in full-site disaster recovery after a ransomware incident (`~200 machines` on-site within a `1,500-device` global recovery).
 
 ### Technical Support Infrastructure Engineer — Next Generation Technology Solutions (NGT Sol)
 *Lahore, Pakistan · On-site | Sep 2021 – May 2022*
