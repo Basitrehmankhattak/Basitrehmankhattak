@@ -28,7 +28,7 @@ Paris Region, France | [Portfolio](https://basitrehmankhattak.github.io/BasiturR
 - **Scripting & System Telemetry:** Developed Python scripts to automate daily system health checks, log parsing, and routine administrative workflows; configured **Grafana** and **AWS CloudWatch** telemetry dashboards and automated log alerts to track real-time infrastructure performance and service availability.
 - **Workflow Automation & Governance (Jira / Confluence / CAB):** Led Jira & Confluence administration; built custom workflows, `JQL` queries, and REST API automation scripts saving **15+ operational hours monthly**, drove an **80% global ticket backlog reduction** (1,000+ to <200 open tickets) with a **4.9/5 user satisfaction rating**, and served as CAB Administrator enforcing ITIL change management for zero-downtime hybrid cloud migrations.
   
-### Systems & Data Operations Engineer — Next Generation Technology Solutions (NGT Sol)
+### Infrastructure Engineer — Next Generation Technology Solutions (NGT Sol)
 *Lahore, Punjab, Pakistan · On-site | Sep 2021 – May 2022 (9 mos)*
 - **Log Parsing & Diagnostic Scripting:** Developed custom Shell and Python diagnostic scripts to parse system logs, automate routine server health checks, and resolve network/authentication bottlenecks.
 - **Server Administration & Virtualization:** Delivered L2 infrastructure support across Linux and Windows server environments; executed routine server provisioning, virtualization setups (`VMware ESXi`), and security patch management.
