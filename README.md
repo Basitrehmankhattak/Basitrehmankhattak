@@ -1,14 +1,12 @@
 # Basit ur Rehman
-**Cloud & Data Engineer | MLOps | Master 2 Student in Intelligent Systems & Computer Vision**
+**Data & Analytics Engineer | Cloud Infrastructure | Master 2 Student in Intelligent Systems & Computer Vision**  
+Paris Region, France | [Portfolio](https://basitrehmankhattak.github.io/BasiturRehmanPortfolio/) | [LinkedIn](https://www.linkedin.com/in/basit-ur-rehman/) | basitrehman97@gmail.com
 
- Paris Region, France |  [LinkedIn](https://www.linkedin.com/in/basitr-khattak) |  basitrehman97@gmail.com
-
----
-
-###  About Me
--  **Education:** M2 Intelligent Systems & Computer Vision (SIVO) @ Université Sorbonne Paris Nord | M1 MSc Data Science & Analytics @ EPITA | B.S. Computer Engineering @ COMSATS University.
--  **Experience:** 4+ years managing AWS & Azure hybrid-cloud infrastructure, automating system health pipelines, and driving 80% operational efficiency at u-blox.
--  **Target:** Seeking a 6-month End-of-Studies Master's Internship starting early 2027 in **Data Engineering, MLOps, or Cloud Architecture**.
+## About Me
+- **Target:** Seeking a 6-month End-of-Studies Master's Internship (*stage de fin d'études*) starting early 2027 in **Data Engineering** or **Analytics Engineering**.
+- **Experience:** 4+ years managing AWS & Azure cloud infrastructure, automating Linux/Python operational pipelines, and driving 80% operational efficiency at u-blox and NGT Sol.
+- **Data & Pipeline Focus:** Building containerized ELT platforms, dimensional `dbt` data models with automated quality testing, and orchestrated workflows using **Python, SQL (PostgreSQL), dbt, Apache Airflow, Docker, and Grafana**.
+- **Education:** M2 Intelligent Systems & Computer Vision (SIVO) @ Université Sorbonne Paris Nord | M1 MSc Data Science & AI @ EPITA | B.S. Computer Engineering @ COMSATS University.
 
 ---
 
