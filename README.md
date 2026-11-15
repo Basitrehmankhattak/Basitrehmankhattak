@@ -12,10 +12,11 @@ Paris Region, France | [Portfolio](https://basitrehmankhattak.github.io/BasiturR
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Querying** | Python (pandas, requests, psycopg2), SQL (PostgreSQL, Snowflake — CTEs, Window Functions), Bash |
-| **Analytics Engineering & BI** | dbt Core (Staging/Mart Modeling, Data Quality Tests), Dimensional Modeling, Grafana |
-| **Orchestration & Pipelines** | Apache Airflow (`DockerOperator`, `PythonOperator`), ETL / ELT Design, REST APIs |
-| **Cloud & Data Warehouses** | Snowflake, AWS (S3, Glue ETL, Athena, Step Functions, IAM), Microsoft Azure (Certified Admin) |
+| **Languages & Databases** | Python (pandas, requests, psycopg2), SQL (PostgreSQL, Snowflake — CTEs, Window Functions), MongoDB, Bash |
+| **Analytics Engineering & BI** | dbt Core (Staging/Mart Modeling, Data Quality Tests), Dimensional Modeling (Star & Snowflake Schemas), Grafana, Power BI, Tableau, Dataiku, Orange |
+| **Orchestration & Pipelines** | Apache Airflow (`DockerOperator`, `PythonOperator`), ETL / ELT Design, REST APIs, Celery, Redis |
+| **Cloud & Data Warehouses** | Snowflake, AWS (S3, Glue ETL, Athena, Step Functions, Lambda, SageMaker, CloudWatch, IAM), Microsoft Azure (Certified Admin) |
+| **AI & ML Systems** | Generative AI / LLMs, HuggingFace Transformers, FAISS, LightGBM, PyTorch, Scikit-Learn, FastAPI, Streamlit |
 | **Containers & DevOps** | Docker, Docker Compose, Linux (Ubuntu), Git, GitHub Actions CI/CD |
 
 ## Featured Engineering Projects
