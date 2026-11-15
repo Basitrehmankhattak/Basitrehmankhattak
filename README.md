@@ -5,21 +5,18 @@ Paris Region, France | [Portfolio](https://basitrehmankhattak.github.io/BasiturR
 ## About Me
 - **Target:** Seeking a 6-month End-of-Studies Master's Internship (*stage de fin d'études*) starting early 2027 in **Data Engineering** or **Analytics Engineering**.
 - **Experience:** 4+ years managing AWS & Azure cloud infrastructure, automating Linux/Python operational pipelines, and driving 80% operational efficiency at u-blox and NGT Sol.
-- **Data & Pipeline Focus:** Building containerized ELT platforms, dimensional `dbt` data models with automated quality testing, and orchestrated workflows using **Python, SQL (PostgreSQL), dbt, Apache Airflow, Docker, and Grafana**.
+- **Data & Pipeline Focus:** Building containerized ELT platforms, dimensional `dbt` data models with automated quality testing, and orchestrated workflows using **Python, SQL (PostgreSQL, Snowflake), dbt, Apache Airflow, Docker, and Grafana**.
 - **Education:** M2 Intelligent Systems & Computer Vision (SIVO) @ Université Sorbonne Paris Nord | M1 MSc Data Science & AI @ EPITA | B.S. Computer Engineering @ COMSATS University.
-
----
 
 ## Technical Toolkit
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Querying** | Python (pandas, requests, psycopg2), SQL (PostgreSQL — CTEs, Window Functions), Bash |
+| **Languages & Querying** | Python (pandas, requests, psycopg2), SQL (PostgreSQL, Snowflake — CTEs, Window Functions), Bash |
 | **Analytics Engineering & BI** | dbt Core (Staging/Mart Modeling, Data Quality Tests), Dimensional Modeling, Grafana |
 | **Orchestration & Pipelines** | Apache Airflow (`DockerOperator`, `PythonOperator`), ETL / ELT Design, REST APIs |
-| **Cloud & Data Platforms** | AWS (S3, Glue ETL, Athena, Step Functions, IAM), Microsoft Azure (Certified Admin) |
+| **Cloud & Data Warehouses** | Snowflake, AWS (S3, Glue ETL, Athena, Step Functions, IAM), Microsoft Azure (Certified Admin) |
 | **Containers & DevOps** | Docker, Docker Compose, Linux (Ubuntu), Git, GitHub Actions CI/CD |
----
 
 ## Featured Engineering Projects
 
