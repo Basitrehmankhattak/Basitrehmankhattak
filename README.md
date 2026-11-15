@@ -1,5 +1,5 @@
 # Basit ur Rehman
-**Data & Analytics Engineer | Cloud, Linux & Data Platform Infrastructure | M2 Intelligent Systems & Computer Vision**  
+**Data Engineering Intern (stage de fin d’études, early 2027) | Python · SQL · dbt · Airflow · Docker**  
 Paris Region, France | [Portfolio](https://basitrehmankhattak.github.io/BasiturRehmanPortfolio/) | [LinkedIn](https://www.linkedin.com/in/basit-ur-rehman/) | basitrehman97@gmail.com
 
 ## About Me
