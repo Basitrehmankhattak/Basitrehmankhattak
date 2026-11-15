@@ -9,6 +9,8 @@ Paris Region, France (Île-de-France) | [Portfolio](https://basitrehmankhattak.g
 
 I am a Master's student in Paris pursuing an **M2 in Intelligent Systems & Computer Vision (SIVO)** at **Université Sorbonne Paris Nord**, following an **M1 in Data Science & AI** at **EPITA Paris**.
 
+My M2 combines data engineering, deep learning and networking, so I can build data platforms and understand the ML and infrastructure around them.
+
 Before my Master's in France, I spent **3+ years running production infrastructure** at **u-blox** (Switzerland) and **NGT Sol**, where I built my foundation in system reliability, observability, and automation. Today, I apply that same production mindset to **Data & Analytics Engineering**—designing **ETL/ELT pipelines**, **dimensional data models**, and **data quality checks** that are tested, observable, and easy to operate.
 
 - **Target:** Seeking a **6-month End-of-Studies Internship (*stage de fin d'études*) starting February/March 2027** (*convention de stage* provided) in **Data Engineering**, **Analytics Engineering**, or **Data Platform Engineering** in Île-de-France.
