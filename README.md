@@ -45,7 +45,7 @@ Paris Region, France | [Portfolio](https://basitrehmankhattak.github.io/BasiturR
 - A containerized end-to-end ELT pipeline ingesting live meteorological data, enforcing automated `dbt` schema quality tests (`unique`, `not_null`), orchestrating tasks via Airflow's `DockerOperator`, and tracking real-time metrics and ingestion health in Grafana.
 - **Tech:** Python, PostgreSQL, dbt Core, Apache Airflow, Grafana, Docker Compose.
 
-### [Production-Ready Semantic News Recommendation Platform](https://github.com/Basitrehmankhattak/house-prices-industrialized-mlops)
+### [Production-Ready Semantic News Recommendation Platform](https://github.com/Basitrehmankhattak/news-recommendation-platform)
 - A multi-stage recommendation funnel on the Microsoft MIND dataset featuring sub-millisecond vector retrieval and diversity re-ranking.
 - **Tech:** Python, FastAPI, FAISS, LightGBM, Maximal Marginal Relevance (MMR), PostgreSQL, Docker.
 
